@@ -83,7 +83,10 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
-				}
+				},
+                {
+                    "PackageIdentifier" : "9nfkc78brs8w"
+                }
 			],
 			"SourceDetails" : 
 			{
