@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2024-11-17T02:09:19.643-00:00",
+	"CreationDate" : "2025-01-08T02:12:31.648-00:00",
 	"Sources" : 
 	[
 		{
@@ -22,10 +22,16 @@
 					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
+					"PackageIdentifier" : "Google.QuickShare"
+				},
+				{
 					"PackageIdentifier" : "Logitech.OptionsPlus"
 				},
 				{
 					"PackageIdentifier" : "ViGEm.ViGEmBus"
+				},
+				{
+					"PackageIdentifier" : "WinDirStat.WinDirStat"
 				},
 				{
 					"PackageIdentifier" : "Google.Chrome"
@@ -43,6 +49,12 @@
 					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.XNARedist"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
 				},
 				{
@@ -55,10 +67,10 @@
 					"PackageIdentifier" : "WinSCP.WinSCP"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.AppInstaller"
